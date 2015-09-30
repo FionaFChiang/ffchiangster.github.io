@@ -14,7 +14,6 @@ ul.nav {
 .jumbotron {
 	text-align: center;
 	background-image: url('../images/Hero_image.jpg');
-	background-position: 50px 100px;
 }
 
 .jumbotron h1 {
