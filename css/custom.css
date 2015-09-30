@@ -13,6 +13,7 @@ ul.nav {
 }
 .jumbotron {
 	text-align: center;
+	background-image: url('../images/Hero_image.jpg');
 }
 
 .jumbotron h1 {
