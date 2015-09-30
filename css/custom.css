@@ -8,8 +8,20 @@ ul.nav, .jumbotron h1 {
 	font-family: 'Arvo', serif;
 }
 
+ul.nav {
+	font-size: 13px;
+}
 .jumbotron {
 	text-align: center;
+}
+
+.jumbotron h1 {
+	margin-bottom: 30px;
+	margin-top: 0px
+}
+
+.jumbotron p {
+	margin-bottom: 30px;
 }
 
 .btn-lg {
