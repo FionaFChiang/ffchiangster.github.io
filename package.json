@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ffchiangster/fionaPortfolio.git"
+    "url": "https://github.com/ffchiangster/ffchiangster.github.io"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ffchiangster/fionaPortfolio/issues"
+    "url": "https://github.com/ffchiangster/ffchiangster.github.io/issues"
   },
-  "homepage": "https://github.com/ffchiangster/fionaPortfolio",
+  "homepage": "https://github.com/ffchiangster/ffchiangster.github.io",
   "dependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",
