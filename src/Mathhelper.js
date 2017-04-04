@@ -1,5 +1,4 @@
 import React from 'react';
-var mathPic = require('../www/images/mathhelpertestimg.png');
 
 class Mathhelper extends React.Component {
   constructor(props) {
@@ -37,7 +36,7 @@ class Mathhelper extends React.Component {
           {describe}
         </h5>
 
-        <img style={{transform: this.state.expanded ? 'translateY(0px)' : 'translateY(600px)'}} className='projectMove title' className="projectImg" id="MathPic" src={mathPic} />
+        <img style={{transform: this.state.expanded ? 'translateY(0px)' : 'translateY(600px)'}} className='projectMove title' className="projectImg" id="MathPic" src="http://i1077.photobucket.com/albums/w469/Mizermymoppy/mathhelpertestimg.png" />
 
         <div style={{transform: this.state.expanded ? 'translateY(0px)' : 'translateY(600px)'}}
         className='projectMove blurb'>

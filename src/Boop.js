@@ -1,5 +1,4 @@
 import React from 'react';
-var boopPic = require('../www/images/boopPic.jpg');
 
 class Boop extends React.Component {
   constructor(props) {
@@ -37,7 +36,7 @@ class Boop extends React.Component {
           {describe}
         </h5>
 
-        <img style={{transform: this.state.expanded ? 'translateY(0px)' : 'translateY(600px)'}} className='projectMove title' className="projectImg" id="BoopPic" src={boopPic} />
+        <img style={{transform: this.state.expanded ? 'translateY(0px)' : 'translateY(600px)'}} className='projectMove title' className="projectImg" id="BoopPic" src="http://i1077.photobucket.com/albums/w469/Mizermymoppy/boopPic.jpg" />
 
         <div style={{transform: this.state.expanded ? 'translateY(0px)' : 'translateY(600px)'}}
         className='projectMove blurb'>
